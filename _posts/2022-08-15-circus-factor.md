@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Circus Factor"
+categories: leadership documentation techlead communication
 ---
 
 [Minimize Your Circus Factor: Building resilient teams by Mercedes Bernard](https://www.youtube.com/watch?v=jBMSWBND0WU)
