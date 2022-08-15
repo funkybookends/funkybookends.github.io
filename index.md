@@ -10,12 +10,12 @@
 </ul>
 
 
-### Catgeories
+### Tags
 
-{% for cat in site.category %}
-  <h3>{{ cat[0] }}</h3>
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
   <ul>
-    {% for post in cat[1] %}
+    {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
