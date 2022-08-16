@@ -2,11 +2,12 @@
 layout: post
 title:  "Circus Factor"
 tags: leadership documentation techlead communication
+summary: Document, delegate, and communicate to reduce the circus factor in your team.
 ---
 
 [Minimize Your Circus Factor: Building resilient teams by Mercedes Bernard](https://www.youtube.com/watch?v=jBMSWBND0WU)
 
-# My Take Aways
+## My Take Aways
 
 There are things you can do to have psychological safety in the team for your team members, and for you, to make it easier to take PTO for example, and to have better trust in your team members.
 
