@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Circus Factor"
-tags: leadership documentation techlead communication
+tags: documentation
 summary: Document, delegate, and communicate to reduce the circus factor in your team.
 ---
 
