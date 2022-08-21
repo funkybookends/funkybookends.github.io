@@ -5,7 +5,7 @@ tags: "pair programming"
 summary: It works because it's uncomfortable.
 ---
 
-[To Pair or Not to Pair: Pair Programming(https://www.youtube.com/watch?v=u_eZ-ae2FY8)
+[To Pair or Not to Pair: Pair Programming](https://www.youtube.com/watch?v=u_eZ-ae2FY8)
 
 ## My Take Aways
 
