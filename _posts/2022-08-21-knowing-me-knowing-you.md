@@ -2,7 +2,7 @@
 layout: post
 title:  "Knowing Me, Knowing You - Growing Teams to Continuously Deliver"
 tags: "pair programming"
-summary: It works because it's uncomfortable.
+summary: Pair programming is hard, but there are things we can practice to make it easier.
 ---
 
 [Knowing Me, Knowing You - Growing Teams to Continuously Deliver - Pia Nilsson](https://www.youtube.com/watch?v=S92vVAEofes)
