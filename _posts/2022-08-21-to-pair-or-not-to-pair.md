@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To Pair or Not to Pair: Pair Programming"
-tags: "pair programming"
+tags: pair-programming
 summary: It works because it's uncomfortable.
 ---
 
