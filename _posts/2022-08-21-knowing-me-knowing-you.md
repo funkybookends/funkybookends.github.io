@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Knowing Me, Knowing You - Growing Teams to Continuously Deliver"
-tags: "pair programming"
+tags: pair-programming
 summary: Pair programming is hard, but there are things we can practice to make it easier.
 ---
 
