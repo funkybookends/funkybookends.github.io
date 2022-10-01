@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "No estimates by Vasco Duarte"
-tags: postmortem
-summary: The bigger problem is inappropriate sanctions
+tags: estimates
+summary: Just counting the number of stories is more accurate.
 ---
 
 [No estimates by Vasco Duarte](https://www.youtube.com/watch?v=cgvB2wWvi8M)
