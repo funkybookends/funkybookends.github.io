@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Four Key Metrics Unleashed"
-tags: "dora metrics"
+tags: metrics
 summary: Just start collecting the metrics and go from there.
 ---
 
