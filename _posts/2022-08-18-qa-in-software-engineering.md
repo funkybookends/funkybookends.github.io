@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Role of QA in Software Engineering"
-tags: "QA"
+tags: "testing"
 summary: QA are not a gatekeeper, quality should be built in and feedback fast.
 ---
 
